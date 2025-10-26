@@ -20,7 +20,7 @@ This hybrid approach helps detect worms, exploits, and malicious payloads that m
 ## 📦 Quickstart
 ```bash
 # Clone the repository
-git clone https://github.com/Zian-Surani/IDS-using-regex.git
+git clone https://github.com/JAY-PRAKASH-MAHTO/Intrusion_Detection_Sytem_using_REGEX.git
 cd IDS-using-regex
 
 # Install dependencies
@@ -133,6 +133,7 @@ logs/
 # OS files
 .DS_Store
 Thumbs.db
+
 
 
 
